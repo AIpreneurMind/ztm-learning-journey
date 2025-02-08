@@ -1,2 +1,2 @@
 # ztm-learning-journey
-Path to Becoming a Full Stack AI Engineer
+Path to becoming a full stack AI engineer
